@@ -6,6 +6,6 @@ https://sprig.hackclub.com/share/3AWmEEVINE324649XdZ6
 
 ## How to play
 
-My game has 14 levels of different mazes that increasingly get more challenging. The goal is to get the green pea to the boba.
+My game has 14 levels of different mazes that increasingly get more challenging. The goal is to get the green pea to the boba and avoid the unicorns. There is also a step limit for each level.
 
 Press WASD to move and J to reset the current level.
