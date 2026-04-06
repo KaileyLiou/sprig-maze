@@ -2,6 +2,8 @@
 
 https://sprig.hackclub.com/share/3AWmEEVINE324649XdZ6
 
+![IMG_3274](https://github.com/user-attachments/assets/f9b96368-f773-4444-9255-1817acc2c4b9)
+
 <img width="1708" height="894" alt="Screenshot 2025-07-26 at 9 35 33 PM" src="https://github.com/user-attachments/assets/1b914746-f593-4b68-9091-0d2ecf4af76f" />
 
 ## How to play
